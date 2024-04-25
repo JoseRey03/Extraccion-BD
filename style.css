@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset{  
+    border:3px solid;
+    border-radius:22px; 
+    padding:20px;
+}
+
+label{
+   display: inline-block;
+   width: 200px;
+   display: flex;
+}
+
+input{
+   width:200px;
+   border-radius:3px; 
+}
+.Buscar{
+    width:70px;
+    border-radius:3px; 
+}
+
